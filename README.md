@@ -13,3 +13,25 @@ Transcriptomics data based Consensus Molecular Subtype (CMS) classification has 
 
                                     The Analysis Pipeline of This Study
 ![image](https://github.com/changwn/BC-CRC/blob/master/CRC_figure/fig1.jpg)
+
+SUPPLEMENTARY NOTES
+Complete data sets and key analysis codes were provided as R Data Space through the github link https://github.com/changwn/BC-CRC. Key data sets were listed below:
+
+1)  Original Gene Expression data:<br/>
+    GEO-RData
+2)  CMS classes of each sample:<br/>
+    CMS_sample_list_all.RData
+3)  Complete sets of identified BCs with significance: <br/>
+    TCGA_sig_BC_list_all_new_pp.RData, sig_BC_list_all_new_pp.RData
+4)  Pathway enrichment of the BCs:<br/>
+    PE_all_list.RData, TCGA_PE_all_list.RData
+5)  Association with CMS classes of the BCs:<br/>
+    CMS_BC_enrich_list.RData
+6)  Clinical association with each BC:<br/>
+    BC.CMS.clinical.RData
+7)  Clinical, DFS, and OS data:<br/>
+    I.gse.clinical.RData, I.gse.dfs.RData, I.gse.os.RData
+8)  TCGA mutation associated BCs:<br/>
+    TCGA_mutation_BC_association.RData
+9)  TCGA chemo-resistance associated BCs and relevant information:<br/>
+    TCGA_chemo_resistance_data.RData
