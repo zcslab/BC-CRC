@@ -12,6 +12,7 @@ Transcriptomics data based Consensus Molecular Subtype (CMS) classification has 
 
 
                                     The Analysis Pipeline of This Study
+                                    
 ![image](https://github.com/changwn/BC-CRC/blob/master/CRC_figure/fig1.jpg)
 
 # SUPPLEMENTARY NOTES <br/>
